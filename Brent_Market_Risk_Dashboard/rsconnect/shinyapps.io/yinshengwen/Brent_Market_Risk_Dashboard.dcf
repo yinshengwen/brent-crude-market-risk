@@ -1,0 +1,13 @@
+name: Brent_Market_Risk_Dashboard
+title: Brent_Market_Risk_Dashboard
+username: yinshengwen
+account: yinshengwen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17842427
+bundleId: 12519919
+url: https://yinshengwen.shinyapps.io/Brent_Market_Risk_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R/analysis2.R

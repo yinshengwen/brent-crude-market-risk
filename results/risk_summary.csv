@@ -1,0 +1,8 @@
+Metric,Value
+Brent Position,100000
+WTI Hedge Position,28794.272478808707
+Unhedged Daily Volatility,0.025411299545983694
+Hedged Daily Volatility,0.022267697994913134
+Unhedged 95% VaR,201000.0000000004
+Hedged 95% VaR,166706.7256265362
+VaR Reduction,0.17061330534061758

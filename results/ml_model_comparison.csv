@@ -1,0 +1,3 @@
+Model,RMSE,Directional_Accuracy
+Naive Benchmark,0.033821753835048735,NA
+Random Forest,0.03430924041993776,0.5143884892086331
