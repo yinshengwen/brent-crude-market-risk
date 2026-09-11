@@ -6,13 +6,13 @@ The project was designed to demonstrate how market data can be translated into *
 
 ## Project Report
 
-**[View the HTML Project Report](Brent_Crude_Market_Risk_Report.html)**
+[**View the HTML Project Report**](https://yinshengwen.github.io/brent-crude-market-risk/)
 
 The report presents the analysis in a business-oriented format, including market analysis, P&L, hedging, VaR, stress testing, EWMA volatility and model evaluation.
 
 ## Interactive Dashboard
 
-**[Open the Shiny Dashboard](Brent_Market_Risk_Dashboard/)**
+**[Open the Shiny Dashboard](https://yinshengwen.shinyapps.io/Brent_Market_Risk_Dashboard/)**
 
 The Shiny dashboard provides an interactive view of the main market, P&L, risk and machine-learning results.
 
