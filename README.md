@@ -6,7 +6,7 @@ The project was designed to demonstrate how market data can be translated into *
 
 ## Project Report
 
-[**View the HTML Project Report**](https://yinshengwen.github.io/brent-crude-market-risk/)
+[**View the HTML Project Report**](https://yinshengwen.github.io/brent-crude-market-risk/Brent_Crude_Market_Risk_Report.html)
 
 The report presents the analysis in a business-oriented format, including market analysis, P&L, hedging, VaR, stress testing, EWMA volatility and model evaluation.
 
